@@ -1,0 +1,26 @@
+{
+  "name": "file-upload-kit",
+  "version": "1.0.0",
+  "description": "manage file upload",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ah-serag/file-upload-kit.git"
+  },
+  "keywords": [
+    "manag",
+    "upload"
+  ],
+  "author": "ahmed serag",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ah-serag/file-upload-kit/issues"
+  },
+  "homepage": "https://github.com/ah-serag/file-upload-kit#readme",
+  "dependencies": {
+    "multer": "^2.1.1"
+  }
+}
